@@ -33,10 +33,10 @@ Les attributaires de -la zone- sont tenu de reverser **1h d’insertion à réal
 
 ## Artefacts
   - Tout savoir sur l'équipe ([lien](équipe.md))
-  - Backlog ([lien]](https://github.com/orgs/clause-sociale/projects/1))
+  - Backlog ([lien](https://github.com/orgs/clause-sociale/projects/1))
   - release plan/roadmap (lien)
-  - lien vers le prototype
-  - suivi budget / temps passé
+  - lien vers le prototype ([lien](https://docs.google.com/spreadsheets/d/1DTjqb3i5K2uoPJp0A_wgbt3e7QXxmQUVB6rJRR0IEGk/edit#gid=130128679))
+  - suivi budget / temps passé ([lien](https://github.com/clause-sociale/documentation/blob/main/letempsquipasse.md))
 
 
 ## Comment on aimerait travailler ?

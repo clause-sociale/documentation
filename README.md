@@ -9,7 +9,6 @@ La zone est un regroupement de coopératives qui se partagent le portage de Star
 Devant la pluralité de fonctionnement des structures et des manières de réaliser le portage, plusieurs personnes de la zone ont proposé de regarder ensemble la pertinence de dévélopper / mutualiser les outils
 
 Un premier temps a été consacré à réaliser des ateliers, réunions collectives et entretiens afin de comprendre les attentes et besoins des différentes coopératives, ainsi que leurs pratiques et leurs usages dans la gestion des Startup-d’Etat.
-[lien vers la doc + est-ce qu'on ramène le journal et autres notes prise à cet endroit là]
 
 Les personnes qui ont réalisés ces entretiens y ont vu des opportunités de développer des outils qui permettraientt de suivre :
 - les échange avec les administrations ;

@@ -11,10 +11,13 @@
 ## Celleux qui sont déjà là
 - Audrey : Equipe SCRUM
 - Sofia : Equipe SCRUM
-- Stéphane : Equipe SCRUM
 
 ## Celleux qui ont levé la main
 - Emma : Equipe SCRUM
+
+## Les parties prenantes
+- Béatrice de l'EPEC
+- Ishan de la DINUM
 
 ## Celleux qu'on pourrait solliciter
 *On pense à elleux et on fait l'hypothèse qu'ielles pourraient rejoindre l'équipe, mais on doit encore le valider en présenter les différents rôles possibles*

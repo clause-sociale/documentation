@@ -1,7 +1,5 @@
 # Documentation du produit -clause-sociale-
 
-- résumé de ce qu'on trouve dans ce readme
-
 ## Contexte 
 
 La zone est un regroupement de coopératives qui se partagent le portage de Startup-d'État au sein du marché inter-ministériel *21BAM048 - "Réalisation de services publics numériques en mode produit coordonnés par le programme interministériel Beta.gouv"*.
@@ -35,6 +33,7 @@ La redevabilité pourrait être par structure, mais dans la réalité c'est tout
 - les personnes embauchées ne savent pas combien elles coûtent à l'entreprise
 
 ### Solutions (les principales fonctionnalités)
+(en cours)
 
 ### à qui le produit est destiné
 - à Béatrice de l'EPEC et à Ishan de Betagouv
@@ -45,7 +44,7 @@ La redevabilité pourrait être par structure, mais dans la réalité c'est tout
 ## Artefacts
   - Tout savoir sur l'équipe ([lien](équipe.md))
   - Backlog ([lien](https://github.com/orgs/clause-sociale/projects/1))
-  - Release plan / roadmap (lien)
+  - Release plan / roadmap
   - Lien vers le prototype ([lien](https://docs.google.com/spreadsheets/d/1DTjqb3i5K2uoPJp0A_wgbt3e7QXxmQUVB6rJRR0IEGk/edit#gid=130128679))
   - Suivi budget / temps passé ([lien](https://github.com/clause-sociale/documentation/blob/main/letempsquipasse.md))
 
@@ -54,7 +53,9 @@ La redevabilité pourrait être par structure, mais dans la réalité c'est tout
 - les personnes qui se proposent d’animer le projet proposent de faire attention à la manière de faire, d’essayer de ne pas reproduire des dysfonctions, impliquer tous les métiers, etc. s’accorder pour éviter le risque de faire le produit sans que tout le monde soit satisfait
 - pour s'accorder rapidement entre nous décidons de partir sur du *scrum*
 - de documenter
-- 
-## Comment participer ?
 
-## licence
+## Comment participer ?
+(en cours)
+
+## Licence
+(en cours)

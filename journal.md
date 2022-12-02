@@ -1,19 +1,19 @@
 # Journal
 ## 18 novembre 2022 - à propos de user story
-
-Pntbr : 
+Pntbr
 J'ai l'impression que pour comprendre l'esprit des U.S. il faut revenir au truc d'avant les -Use Cases-
-Les Uses Cases visait à spécifier, càd à décrire précisément et sous forme de scénarios les interactions entre les personnes utilisatrices et le système.
+> Les Uses Cases visait à spécifier, càd à décrire précisément et sous forme de scénarios les interactions entre les personnes utilisatrices et le système.
 Par ex. pour un distributeurs de billets :
-scénario nominal :
-1- la personne insère sa CB
-2- le système lui demande son code
-3- la personne rentre un code à 4 chiffres
-4- le système lui demande le montant
-5- etc.
-scénario alternatif - code erroné :
-4a- le système demande à rentrer son code à nouveau
-5a- etc.
+- scénario nominal :
+    - 1- la personne insère sa CB
+    - 2- le système lui demande son code
+    - 3- la personne rentre un code à 4 chiffres
+    - 4- le système lui demande le montant
+    - 5- etc.
+- scénario alternatif - code erroné :
+    - 4a- le système demande à rentrer son code à nouveau
+    - 5a- etc.
+
 --
 C'était déjà beaucoup mieux que les spécifications monolithique d'avant, car on découpait le système en unité fonctionnelle et on pouvait faire des backlogs (avec des UC dedans) et imaginer construire le produit de manière itérative et incrémentale.
 Intuitivement ça semblait être une bonne idée mais dans la réalité ça ne fonctionnait pas.
@@ -30,9 +30,9 @@ Confirmation : on détermine ensemble ce qu'il faudrait pour que l'US soit termi
 On peut utiliser le pattern original des US : https://www.mountaingoatsoftware.com/agile/user-stories
 Mais c'est un peu rigide et à mon avis inutile
 J'imagine qu'un verbe d'action et un complément suffisent :
-consulter les randonnées
-afficher la fiche d'un randonneur
-calculer un itinéraire
+- consulter les randonnées
+- afficher la fiche d'un randonneur
+- calculer un itinéraire
 
 Sofia : 
 Mes remarques / réflexions

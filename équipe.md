@@ -2,9 +2,7 @@
 
 ## Les différents groupes
 - La plus large : équipe SCRUM + les partie prenantes (Stakeholders), les utilisateurices, toutes personnes impliquées
-
 - L'équipe SCRUM = PO, PM et Scrum Master + makers
-
 - Les makers : les gens qui font / les personnes qui vont participer à réaliser les user stories
 *(On est pas super à l’aise avec “développeurs” - avec le terme “concepteur” parce qu’il manque la notion de “faire” - les makers ? - Ça serait quoi le bon terme en Français ? (fabriquante ?))*
 

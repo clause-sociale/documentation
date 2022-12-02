@@ -1,7 +1,6 @@
 # Documentation du produit -clause-sociale-
 
 ## Contexte 
-
 La zone est un regroupement de coopératives qui se partagent le portage de Startup-d'État au sein du marché inter-ministériel *21BAM048 - "Réalisation de services publics numériques en mode produit coordonnés par le programme interministériel Beta.gouv"*.
 
 Devant la pluralité de fonctionnement des structures et des manières de réaliser le portage, plusieurs personnes de la zone ont proposé de regarder ensemble la pertinence de dévélopper / mutualiser les outils
@@ -16,7 +15,6 @@ Les personnes qui ont réalisés ces entretiens y ont vu des opportunités de d�
 Désirant réduire le scope, elles ont proposés de démarrer sur le projet de la Clause sociale.
 
 ### La clause sociale 
-
 La clause sociale est une disposition prévue par le code de la commande publique pour favoriser l'insertion sociale et professionnelle des personnes en situation de handicap ou défavorisées. Dans le marché inter-ministérielle qui réunit -la zone- l'acheteur a décider d'inclure ce dispositif.
 
 Les attributaires de -la zone- sont tenu de reverser **1h d’insertion à réaliser par tranche de 2 000 euros facturée**
@@ -43,6 +41,7 @@ La redevabilité pourrait être par structure, mais dans la réalité c'est tout
 
 ## Artefacts
   - Tout savoir sur l'équipe ([lien](équipe.md))
+  - Lien vers l'outil [lien](https://docs.google.com/spreadsheets/d/1Y0zEqkP8VTm2KTSqYvhoO0aZvxqEuulqqONt3UXXmOc/edit#gid=1671905186)
   - Backlog ([lien](https://github.com/orgs/clause-sociale/projects/1))
   - Release plan / roadmap
   - Lien vers le prototype ([lien](https://docs.google.com/spreadsheets/d/1DTjqb3i5K2uoPJp0A_wgbt3e7QXxmQUVB6rJRR0IEGk/edit#gid=130128679))

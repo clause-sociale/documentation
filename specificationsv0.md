@@ -18,7 +18,7 @@ Audrey et Sofia décident de marquer un arrêt, pour laisser les personnes utili
     - c'est de la saisie ligne par ligne
 ### Onglet : détail du calcul du coût d'une heure
 - **uses stories**
-    - savoir pour une heure sociale = 20,04€
+    - savoir pourquoi une heure sociale = 20,04€
 - comment ça marche ?
     - /
 ### Onglet : suivi des bons de commande

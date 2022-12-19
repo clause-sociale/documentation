@@ -21,12 +21,14 @@ Audrey et Sofia décident de marquer un arrêt, pour laisser les personnes utili
 - **uses stories**
     - savoir pourquoi une heure sociale = 20,04€
 - comment ça marche ?
-    - /
+    - historiquement, ce coût a été calculé par Scopyleft, lors du précédent marché. En effet, à ce moment là, c'est principalement Scopyleft qui avait embauché des personnes via le dispositif de la Clause Sociale et en général dans le cadre d'un contrat de professionnalisation.
 ### Onglet : suivi des bons de commande
 - **uses stories**
     - savoir quels sont les bons de commandes terminés, en cours et à venir
 - comment ça marche ?
     - c'est de la saisies
+    - l'état de la commande est déterminé de manière automatique à partir des dates saisies
+    - l'estimation du coût de consommation se base sur la durée du bon de commande et fait l'hypothèse que la consommation est linéaire
 ### Onglet : estimations
 - **uses stories**
     - savoir quels sont les potentialités d'embauches

@@ -31,13 +31,13 @@ La redevabilité pourrait être par structure, mais dans la réalité c'est tout
 - les personnes embauchées ne savent pas combien elles coûtent à l'entreprise
 
 ### Solutions (les principales fonctionnalités)
-(en cours)
+Une [google sheet](https://docs.google.com/spreadsheets/d/1Y0zEqkP8VTm2KTSqYvhoO0aZvxqEuulqqONt3UXXmOc/edit#gid=0) à a été construit pour permettre le suivi de la clause sociale.
+Les "user stories" auxquelles il répond sont listé [dans ce document](https://github.com/clause-sociale/documentation/blob/main/specificationsv0.md)
 
 ### à qui le produit est destiné
 - à Béatrice de l'EPEC et à Ishan de Betagouv
 - aux personnes dans les structures du groupement qui sont impliquées dans la gestion financière des SE
 - aux personnes embauchées (Pauline, Liam et Anse)
-
 
 ## Artefacts
   - Tout savoir sur l'équipe ([lien](équipe.md))
@@ -53,8 +53,15 @@ La redevabilité pourrait être par structure, mais dans la réalité c'est tout
 - pour s'accorder rapidement entre nous décidons de partir sur du *scrum*
 - de documenter
 
-## Comment participer ?
-(en cours)
+## Où en est le projet ?
+Le projet a mené à la structuration du [google sheet](https://docs.google.com/spreadsheets/d/1Y0zEqkP8VTm2KTSqYvhoO0aZvxqEuulqqONt3UXXmOc/edit#gid=0) de suivi de la clause sociale.
+Deux documents avait été créés en parallèle, l'un suivant les factures réelles émise à l'état, l'autre se basant sur les bons de commande émis pour estimation les heures de clauses sociales dûes et à devoir.
+Au final, les deux solutions ont été intégrées sur un même documents. 
+Les heures dûes sont calculées à partir des factures réellement émises, les heures dûes estimées sur une périodes sont calculées à partir des bons de commande.
+
+A ce jour (26.12) il n'est pas prévu de pousser le développement à un application web.
+Le tableau a été présenté aux membres de La Zone et semble convenir aux attentes actuelles.
+Nous souhaiterions, dans un premier temps, utiliser ce document pour en observer les usages. 
 
 ## Licence
 (en cours)

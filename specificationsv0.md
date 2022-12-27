@@ -7,9 +7,9 @@ Audrey et Sofia décident de marquer un arrêt, pour laisser les personnes utili
 ### Onglet : participation et paiements de chaque structure
 - **users stories des structures**
     - savoir qui doit combien à qui à un instant T
-- **users stories de beatrice**
-    - Savoir combien d’heures sont déclarées - tous les mois
-    - Avoir un recap de tout ce qui est facturé par la zone pour voir le nombre d’heures de clause sociale
+- **users stories de Beatrice**
+    - savoir combien d’heures sont déclarées - tous les mois
+    - avoir un recap de tout ce qui est facturé par la zone pour voir le nombre d’heures de clause sociale
 - comment ça marche ?
     - pour que les montants dus soient calculés, il faut renseigner les factures et les heures déclarées dans l'onglet "suivi des heures"
     - pour que les mouvements monétaire entre les structures soient calculés, il faut renseigner dans le tableau "Facturation HT par structures" la facture payée par une structure à une autre (à partir de la ligne 33). Dans la colonne "Structure" (B34), est indiqué le nom de la structure qui reçoit et dans la ligne (34) la structure qui effectue le paiement.

@@ -1,7 +1,5 @@
 # Spécification v0
-## Où en sommes-nous ?
-Audrey et Sofia décident de marquer un arrêt, pour laisser les personnes utiliser le dernier fichier produit et voir ce qu'il en découle (retours, demandes d'amélioration, rien du tout, etc.)
-- [Lien](https://docs.google.com/spreadsheets/d/1Y0zEqkP8VTm2KTSqYvhoO0aZvxqEuulqqONt3UXXmOc/edit#gid=1671905186) vers le tableur.
+
 
 ## Structuration de l'outil
 ### Onglet : participation et paiements de chaque structure
